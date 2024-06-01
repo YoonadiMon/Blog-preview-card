@@ -2,6 +2,9 @@
 
 This is my first challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
 
+## Live Website
+https://yoonadimon.github.io/Blog-preview-card/
+
 Many thanks to Frontend Mentor.
 
 Started on 03-March-2024;
